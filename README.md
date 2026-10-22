@@ -22,7 +22,7 @@ PriceWatch is a small, personal, non-commercial command-line tool that tracks th
 Requests identify themselves as:
 
 ```
-PriceWatch/1.0 (personal price monitor; +https://github.com/damianno98/pricewatch-docs)
+PriceMonitorDamian/1.0.0 (+https://github.com/damianno98/pricewatch-docs)
 ```
 
 ## Technical overview
